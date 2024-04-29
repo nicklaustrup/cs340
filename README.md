@@ -1,1 +1,4 @@
-# cs340
+# PokEmpires Final Project
+
+## Authors
+Nick Laustrup & Brian Swanson
